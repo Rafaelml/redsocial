@@ -3,9 +3,9 @@
 # Gaming Social Network       #
 # --------------------------- #
 #
-
+   
 # Background
-# ==========
+# ======
 # You and your friend have decided to start a company that hosts a gaming
 # social network site. Your friend will handle the website creation (they know 
 # what they are doing, having taken our web development class). However, it is 
